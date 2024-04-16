@@ -4,11 +4,9 @@
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/MohammadSalek/salekcodes.com/main.svg)](https://results.pre-commit.ci/latest/github/MohammadSalek/salekcodes.com/main)
 [![GitHub](https://img.shields.io/github/license/mohammadsalek/salekcodes.com?color=cornflowerblue)](https://github.com/MohammadSalek/salekcodes.com/blob/main/LICENSE)
 
-**Welcome to Salekcodes**!
+**Welcome to Salecodes**!
 
-Salekcodes is an open-source personal website being actively developed using [Django](https://www.djangoproject.com) and [Tailwind CSS](https://tailwindcss.com/).
-
-🔗 <https://salekcodes.com>
+Salecodes is an open-source personal website being actively developed using [Django](https://www.djangoproject.com) and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Run via Docker
 
